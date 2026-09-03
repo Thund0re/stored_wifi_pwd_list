@@ -53,6 +53,6 @@ Features
 
     No-key option - Skip password retrieval for faster results
 
-    ✅ Error handling - Graceful error messages and fallbacks
+    Error handling - Graceful error messages and fallbacks
 
 This script will now work seamlessly on any operating system with the proper dependencies
