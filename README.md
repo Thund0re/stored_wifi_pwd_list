@@ -2,7 +2,7 @@
 Usage Examples
 On any OS (basic):
 # Show specific profile
-python wifi_manager.py --profile "MyWiFi"
+python wifi_manager.py --profile <adapter SSID>
 
 # Export to JSON
 python wifi_manager.py --format json --output profiles.json
